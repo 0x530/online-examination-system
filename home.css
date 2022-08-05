@@ -1,0 +1,23 @@
+
+        body {
+            backgound-image: url('exam.png');
+            backgound-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
+
+
+p{
+  font-size:80px;
+  color:#e87722;
+}
+.im{
+    width: 99%;
+    height: 500px;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.8;
+}
+    
+
+
